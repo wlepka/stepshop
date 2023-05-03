@@ -1,0 +1,40 @@
+.user_avatar {
+    width: 320px;
+}
+
+.basket {
+    display: flex;
+    justify-content: flex-end;
+    width: 28px;
+    height: 26px;
+    background: url(../images/basket.png) no-repeat;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#pre-header span {
+    padding: 0;
+}
+
+#pre-header .basket span {
+    width: 15px;
+    height: 15px;
+    font-size: 12px;
+    padding: 0;
+    text-align: center;
+    background-color: #3a8bcd;
+    color: #fff;
+    border-radius: 50%;
+}
+
+#filters a {
+    color: #000;
+}
+
+#filters a:hover {
+    color: #3a8bcd;
+}
+
+#filters a.active {
+    color: #3a8bcd;
+}

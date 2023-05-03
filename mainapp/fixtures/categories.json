@@ -1,0 +1,18 @@
+[
+  {
+    "model": "mainapp.productcategory",
+    "pk": 1,
+    "fields": {
+      "name": "Бобры",
+      "description": "Повторим"
+    }
+  },
+  {
+    "model": "mainapp.productcategory",
+    "pk": 2,
+    "fields": {
+      "name": "кеды",
+      "description": "Повторим"
+    }
+  }
+]
