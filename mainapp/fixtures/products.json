@@ -1,0 +1,66 @@
+[
+  {
+    "model": "mainapp.product",
+    "pk": 1,
+    "fields": {
+      "category": 1,
+      "name": "Бобёр обыкновенный",
+      "image": "",
+      "short_desc": "",
+      "description": "",
+      "price": "5000.00",
+      "quantity": 5,
+      "created_at": "2023-04-18T13:04:05.749Z",
+      "updated_at": "2023-04-18T13:04:05.749Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 2,
+    "fields": {
+      "category": 2,
+      "name": "Красные кеды",
+      "image": "",
+      "short_desc": "",
+      "description": "",
+      "price": "2000.00",
+      "quantity": 3,
+      "created_at": "2023-04-18T13:04:05.765Z",
+      "updated_at": "2023-04-18T13:04:05.765Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 3,
+    "fields": {
+      "category": 3,
+      "name": "Не бобер",
+      "image": "",
+      "short_desc": "Не бобер",
+      "description": "Тончо Не бобер",
+      "price": "1313.00",
+      "quantity": 22,
+      "created_at": "2023-04-25T13:09:22.305Z",
+      "updated_at": "2023-04-25T13:09:22.305Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 4,
+    "fields": {
+      "category": 4,
+      "name": "Точно бебер обыкноыенный",
+      "image": "product_images/item-03.jpg",
+      "short_desc": "Точно бебер обыкноыенный",
+      "description": "",
+      "price": "2222.00",
+      "quantity": 333,
+      "created_at": "2023-04-25T13:10:12.934Z",
+      "updated_at": "2023-04-25T13:10:12.934Z",
+      "is_active": true
+    }
+  }
+]
